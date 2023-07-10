@@ -1,0 +1,15 @@
+2023-07-08 22:45:01.722 [info] Extension host with pid 7424 started
+2023-07-08 22:45:01.722 [info] Skipping acquiring lock for /home/meee/.config/Code/User/workspaceStorage/5abb69ddc303cbc77629118abf203a08.
+2023-07-08 22:45:01.919 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-08 22:45:01.932 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-07-08 22:45:02.252 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-07-08 22:45:02.918 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-08 22:45:03.160 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-08 22:45:03.190 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-08 22:45:03.260 [info] Eager extensions activated
+2023-07-08 22:45:03.294 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-08 22:45:03.296 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-08 22:45:03.644 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-08 22:45:03.702 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-08 22:45:07.542 [info] Extension host terminating: renderer closed the MessagePort
+2023-07-08 22:45:07.555 [info] Extension host with pid 7424 exiting with code 0

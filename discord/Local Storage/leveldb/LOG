@@ -1,0 +1,6 @@
+2023/07/10-18:05:11.000 1a4c Reusing MANIFEST /home/meee/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/07/10-18:05:11.002 1a4c Recovering log #7
+2023/07/10-18:05:11.002 1a4c Reusing old log /home/meee/.config/discord/Local Storage/leveldb/000007.log 
+2023/07/10-18:25:07.601 1a83 Level-0 table #11: started
+2023/07/10-18:25:07.701 1a83 Level-0 table #11: 1735850 bytes OK
+2023/07/10-18:25:07.709 1a83 Delete type=0 #7

@@ -1,0 +1,16 @@
+2023-07-10 16:44:04.615 [info] Experiment 'pythonaacf' is active
+2023-07-10 16:44:04.616 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-07-10 16:44:04.616 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-07-10 16:44:04.660 [info] Test server listening.
+2023-07-10 16:44:04.673 [info] Python interpreter path: ~/venv/bin/python
+2023-07-10 16:44:06.889 [info] Starting Pylance language server.
+2023-07-10 16:49:35.371 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py
+2023-07-10 16:49:49.346 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py
+2023-07-10 16:50:39.414 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py
+2023-07-10 16:54:08.492 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py
+2023-07-10 16:54:58.712 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py
+2023-07-10 16:54:59.829 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py
+2023-07-10 17:00:28.791 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py
+2023-07-10 17:02:07.006 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py
+2023-07-10 17:02:34.086 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py
+2023-07-10 17:03:43.079 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py

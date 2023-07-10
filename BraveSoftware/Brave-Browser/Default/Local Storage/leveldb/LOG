@@ -1,0 +1,12 @@
+2023/07/10-17:30:37.587 3 Reusing MANIFEST /home/meee/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/10-17:30:37.589 3 Recovering log #42
+2023/07/10-17:30:37.591 3 Reusing old log /home/meee/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000042.log 
+2023/07/10-18:57:53.219 3 Level-0 table #47: started
+2023/07/10-18:57:53.225 3 Level-0 table #47: 15847 bytes OK
+2023/07/10-18:57:53.228 3 Delete type=0 #42
+2023/07/10-22:04:45.794 3 Level-0 table #49: started
+2023/07/10-22:04:45.801 3 Level-0 table #49: 14390 bytes OK
+2023/07/10-22:04:45.804 3 Delete type=0 #46
+2023/07/10-22:30:03.557 3 Level-0 table #51: started
+2023/07/10-22:30:03.567 3 Level-0 table #51: 16311 bytes OK
+2023/07/10-22:30:03.572 3 Delete type=0 #48

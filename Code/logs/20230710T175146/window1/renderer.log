@@ -1,0 +1,2 @@
+2023-07-10 17:51:49.280 [error] Terminal disposed of during xterm.js creation: CodeExpectedError: Terminal disposed of during xterm.js creation
+    at Hi.zc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2511:155176)

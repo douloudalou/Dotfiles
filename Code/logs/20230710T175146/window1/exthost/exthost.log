@@ -1,0 +1,6 @@
+2023-07-10 17:51:48.777 [info] Extension host with pid 4314 started
+2023-07-10 17:51:48.777 [info] Skipping acquiring lock for /home/meee/.config/Code/User/workspaceStorage/5abb69ddc303cbc77629118abf203a08.
+2023-07-10 17:51:48.875 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-10 17:51:48.893 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-07-10 17:51:49.303 [info] Extension host terminating: renderer closed the MessagePort
+2023-07-10 17:51:49.306 [info] Extension host with pid 4314 exiting with code 0

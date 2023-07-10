@@ -1,0 +1,646 @@
+2023-07-07T15:37:31.442Z [Modules] Modules initializing
+2023-07-07T15:37:31.442Z [Modules] Distribution: remote
+2023-07-07T15:37:31.443Z [Modules] Host updates: enabled
+2023-07-07T15:37:31.443Z [Modules] Module updates: enabled
+2023-07-07T15:37:31.443Z [Modules] Module install path: /home/meee/.config/discord/0.0.27/modules
+2023-07-07T15:37:31.444Z [Modules] Module installed file path: /home/meee/.config/discord/0.0.27/modules/installed.json
+2023-07-07T15:37:31.444Z [Modules] Module download path: /home/meee/.config/discord/0.0.27/modules/pending
+2023-07-07T15:37:31.730Z [Modules] Bootstrapping...
+2023-07-07T15:37:31.733Z [Modules] Installing discord_desktop_core@0 from /home/meee/Software/Discord/resources/bootstrap/discord_desktop_core.zip
+2023-07-07T15:37:31.736Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/home/meee/Software/Discord/resources/bootstrap/discord_desktop_core.zip'
+2023-07-07T15:37:31.737Z [Modules] Installing discord_erlpack@0 from /home/meee/Software/Discord/resources/bootstrap/discord_erlpack.zip
+2023-07-07T15:37:31.738Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/home/meee/Software/Discord/resources/bootstrap/discord_erlpack.zip'
+2023-07-07T15:37:31.740Z [Modules] Installing discord_spellcheck@0 from /home/meee/Software/Discord/resources/bootstrap/discord_spellcheck.zip
+2023-07-07T15:37:31.740Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/home/meee/Software/Discord/resources/bootstrap/discord_spellcheck.zip'
+2023-07-07T15:37:31.741Z [Modules] Installing discord_utils@0 from /home/meee/Software/Discord/resources/bootstrap/discord_utils.zip
+2023-07-07T15:37:31.742Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/home/meee/Software/Discord/resources/bootstrap/discord_utils.zip'
+2023-07-07T15:37:31.742Z [Modules] Installing discord_voice@0 from /home/meee/Software/Discord/resources/bootstrap/discord_voice.zip
+2023-07-07T15:37:31.743Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/home/meee/Software/Discord/resources/bootstrap/discord_voice.zip'
+2023-07-07T15:37:31.743Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-07-07T15:37:31.744Z [Modules] Checking for host updates.
+2023-07-07T15:37:32.077Z [Modules] Host is up to date.
+2023-07-07T15:37:32.077Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:37:32.115Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-07-07T15:37:32.115Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-07-07T15:37:32.116Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-07-07T15:37:32.116Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-07-07T15:37:32.116Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-07-07T15:37:32.116Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-07-07T15:37:32.116Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-07-07T15:37:33.135Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 1%
+2023-07-07T15:37:33.320Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 2%
+2023-07-07T15:37:33.378Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 3%
+2023-07-07T15:37:33.454Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 4%
+2023-07-07T15:37:33.495Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 5%
+2023-07-07T15:37:33.535Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 6%
+2023-07-07T15:37:33.581Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 7%
+2023-07-07T15:37:33.610Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 8%
+2023-07-07T15:37:33.635Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 9%
+2023-07-07T15:37:33.660Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 10%
+2023-07-07T15:37:33.679Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 11%
+2023-07-07T15:37:33.695Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 12%
+2023-07-07T15:37:33.717Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 13%
+2023-07-07T15:37:33.737Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 14%
+2023-07-07T15:37:33.765Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 15%
+2023-07-07T15:37:33.784Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 17%
+2023-07-07T15:37:33.800Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 18%
+2023-07-07T15:37:33.812Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 19%
+2023-07-07T15:37:33.826Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 20%
+2023-07-07T15:37:33.837Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 21%
+2023-07-07T15:37:33.850Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 22%
+2023-07-07T15:37:33.862Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 23%
+2023-07-07T15:37:33.871Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 24%
+2023-07-07T15:37:33.882Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 25%
+2023-07-07T15:37:33.892Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 26%
+2023-07-07T15:37:33.901Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 27%
+2023-07-07T15:37:33.910Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 28%
+2023-07-07T15:37:33.919Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 29%
+2023-07-07T15:37:33.928Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 30%
+2023-07-07T15:37:33.935Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 31%
+2023-07-07T15:37:33.942Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 33%
+2023-07-07T15:37:33.956Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 34%
+2023-07-07T15:37:33.962Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 35%
+2023-07-07T15:37:33.968Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 36%
+2023-07-07T15:37:33.976Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 37%
+2023-07-07T15:37:33.984Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 38%
+2023-07-07T15:37:33.988Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 39%
+2023-07-07T15:37:33.996Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 40%
+2023-07-07T15:37:34.001Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 41%
+2023-07-07T15:37:34.008Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 42%
+2023-07-07T15:37:34.014Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 43%
+2023-07-07T15:37:34.019Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 44%
+2023-07-07T15:37:34.026Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 45%
+2023-07-07T15:37:34.031Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 46%
+2023-07-07T15:37:34.036Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 48%
+2023-07-07T15:37:34.041Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 49%
+2023-07-07T15:37:34.047Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 50%
+2023-07-07T15:37:34.052Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 51%
+2023-07-07T15:37:34.057Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 52%
+2023-07-07T15:37:34.062Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 53%
+2023-07-07T15:37:34.067Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 54%
+2023-07-07T15:37:34.071Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 55%
+2023-07-07T15:37:34.076Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 56%
+2023-07-07T15:37:34.081Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 57%
+2023-07-07T15:37:34.085Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 58%
+2023-07-07T15:37:34.089Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 59%
+2023-07-07T15:37:34.094Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 60%
+2023-07-07T15:37:34.098Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 61%
+2023-07-07T15:37:34.102Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 62%
+2023-07-07T15:37:34.106Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 63%
+2023-07-07T15:37:34.110Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 65%
+2023-07-07T15:37:34.114Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 66%
+2023-07-07T15:37:34.117Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 67%
+2023-07-07T15:37:34.128Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 68%
+2023-07-07T15:37:34.131Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 69%
+2023-07-07T15:37:34.134Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 70%
+2023-07-07T15:37:34.138Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 71%
+2023-07-07T15:37:34.142Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 72%
+2023-07-07T15:37:34.145Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 73%
+2023-07-07T15:37:34.149Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 74%
+2023-07-07T15:37:34.152Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 75%
+2023-07-07T15:37:34.155Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 76%
+2023-07-07T15:37:34.158Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 77%
+2023-07-07T15:37:34.161Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 78%
+2023-07-07T15:37:34.164Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 80%
+2023-07-07T15:37:34.168Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 81%
+2023-07-07T15:37:34.170Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 82%
+2023-07-07T15:37:34.174Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 83%
+2023-07-07T15:37:34.178Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 84%
+2023-07-07T15:37:34.182Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 86%
+2023-07-07T15:37:34.186Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 87%
+2023-07-07T15:37:34.189Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 88%
+2023-07-07T15:37:34.195Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 90%
+2023-07-07T15:37:34.197Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 91%
+2023-07-07T15:37:34.200Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 92%
+2023-07-07T15:37:34.203Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 93%
+2023-07-07T15:37:34.205Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 94%
+2023-07-07T15:37:34.208Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 96%
+2023-07-07T15:37:34.214Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 98%
+2023-07-07T15:37:34.216Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 99%
+2023-07-07T15:37:34.216Z [Modules] Streaming discord_desktop_core@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 100%
+2023-07-07T15:37:34.219Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-07-07T15:37:34.219Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-07-07T15:37:34.679Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 3%
+2023-07-07T15:37:34.681Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 6%
+2023-07-07T15:37:34.685Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 8%
+2023-07-07T15:37:34.689Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 12%
+2023-07-07T15:37:34.692Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 14%
+2023-07-07T15:37:34.697Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 18%
+2023-07-07T15:37:34.698Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 19%
+2023-07-07T15:37:34.700Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 21%
+2023-07-07T15:37:34.705Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 24%
+2023-07-07T15:37:34.710Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 27%
+2023-07-07T15:37:34.711Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 28%
+2023-07-07T15:37:34.715Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 32%
+2023-07-07T15:37:34.720Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 36%
+2023-07-07T15:37:34.726Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 40%
+2023-07-07T15:37:34.731Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 44%
+2023-07-07T15:37:34.732Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 45%
+2023-07-07T15:37:34.737Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 49%
+2023-07-07T15:37:34.742Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 52%
+2023-07-07T15:37:34.745Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 53%
+2023-07-07T15:37:34.749Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 57%
+2023-07-07T15:37:34.751Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 58%
+2023-07-07T15:37:34.755Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 62%
+2023-07-07T15:37:34.760Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 66%
+2023-07-07T15:37:34.763Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 67%
+2023-07-07T15:37:34.768Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 69%
+2023-07-07T15:37:34.773Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 73%
+2023-07-07T15:37:34.779Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 76%
+2023-07-07T15:37:34.782Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 80%
+2023-07-07T15:37:34.788Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 84%
+2023-07-07T15:37:34.790Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 85%
+2023-07-07T15:37:34.794Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 88%
+2023-07-07T15:37:34.796Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 89%
+2023-07-07T15:37:34.798Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 90%
+2023-07-07T15:37:34.848Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 93%
+2023-07-07T15:37:34.852Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 97%
+2023-07-07T15:37:34.855Z [Modules] Streaming discord_erlpack@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 100%
+2023-07-07T15:37:34.858Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-07-07T15:37:34.858Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-07-07T15:37:35.359Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 1%
+2023-07-07T15:37:35.363Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 2%
+2023-07-07T15:37:35.365Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 3%
+2023-07-07T15:37:35.369Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 4%
+2023-07-07T15:37:35.371Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 5%
+2023-07-07T15:37:35.376Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 6%
+2023-07-07T15:37:35.382Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 7%
+2023-07-07T15:37:35.385Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 8%
+2023-07-07T15:37:35.389Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 9%
+2023-07-07T15:37:35.393Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 10%
+2023-07-07T15:37:35.395Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 11%
+2023-07-07T15:37:35.400Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 12%
+2023-07-07T15:37:35.403Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 13%
+2023-07-07T15:37:35.408Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 14%
+2023-07-07T15:37:35.413Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 15%
+2023-07-07T15:37:35.422Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 16%
+2023-07-07T15:37:35.426Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 17%
+2023-07-07T15:37:35.428Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 18%
+2023-07-07T15:37:35.430Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 19%
+2023-07-07T15:37:35.432Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 20%
+2023-07-07T15:37:35.434Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 21%
+2023-07-07T15:37:35.439Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 22%
+2023-07-07T15:37:35.442Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 23%
+2023-07-07T15:37:35.448Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 24%
+2023-07-07T15:37:35.451Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 25%
+2023-07-07T15:37:35.455Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 26%
+2023-07-07T15:37:35.525Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 27%
+2023-07-07T15:37:35.528Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 28%
+2023-07-07T15:37:35.622Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 29%
+2023-07-07T15:37:35.623Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 30%
+2023-07-07T15:37:35.631Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 31%
+2023-07-07T15:37:35.633Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 32%
+2023-07-07T15:37:35.635Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 33%
+2023-07-07T15:37:35.639Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 34%
+2023-07-07T15:37:35.643Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 35%
+2023-07-07T15:37:35.646Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 36%
+2023-07-07T15:37:35.651Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 37%
+2023-07-07T15:37:35.653Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 38%
+2023-07-07T15:37:35.658Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 39%
+2023-07-07T15:37:35.663Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 40%
+2023-07-07T15:37:35.664Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 41%
+2023-07-07T15:37:35.668Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 42%
+2023-07-07T15:37:35.671Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 43%
+2023-07-07T15:37:35.675Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 44%
+2023-07-07T15:37:35.679Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 45%
+2023-07-07T15:37:35.683Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 46%
+2023-07-07T15:37:35.687Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 47%
+2023-07-07T15:37:35.690Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 48%
+2023-07-07T15:37:35.695Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 49%
+2023-07-07T15:37:35.697Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 50%
+2023-07-07T15:37:35.702Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 51%
+2023-07-07T15:37:35.704Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 52%
+2023-07-07T15:37:35.706Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 53%
+2023-07-07T15:37:35.708Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 54%
+2023-07-07T15:37:35.709Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 55%
+2023-07-07T15:37:35.713Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 56%
+2023-07-07T15:37:35.715Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 57%
+2023-07-07T15:37:35.716Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 58%
+2023-07-07T15:37:35.718Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 59%
+2023-07-07T15:37:35.719Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 60%
+2023-07-07T15:37:35.723Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 61%
+2023-07-07T15:37:35.726Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 62%
+2023-07-07T15:37:35.805Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 63%
+2023-07-07T15:37:35.809Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 64%
+2023-07-07T15:37:35.811Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 65%
+2023-07-07T15:37:35.813Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 66%
+2023-07-07T15:37:35.816Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 67%
+2023-07-07T15:37:35.817Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 68%
+2023-07-07T15:37:35.819Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 69%
+2023-07-07T15:37:35.821Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 70%
+2023-07-07T15:37:35.824Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 71%
+2023-07-07T15:37:35.829Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 72%
+2023-07-07T15:37:35.831Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 73%
+2023-07-07T15:37:35.832Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 74%
+2023-07-07T15:37:35.835Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 76%
+2023-07-07T15:37:35.837Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 77%
+2023-07-07T15:37:35.838Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 78%
+2023-07-07T15:37:35.841Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 79%
+2023-07-07T15:37:35.843Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 80%
+2023-07-07T15:37:35.848Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 81%
+2023-07-07T15:37:35.850Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 82%
+2023-07-07T15:37:35.854Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 83%
+2023-07-07T15:37:35.855Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 84%
+2023-07-07T15:37:35.856Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 85%
+2023-07-07T15:37:35.860Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 86%
+2023-07-07T15:37:35.863Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 87%
+2023-07-07T15:37:35.866Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 88%
+2023-07-07T15:37:35.868Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 89%
+2023-07-07T15:37:35.871Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 91%
+2023-07-07T15:37:35.873Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 92%
+2023-07-07T15:37:35.877Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 93%
+2023-07-07T15:37:35.981Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 94%
+2023-07-07T15:37:35.983Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 95%
+2023-07-07T15:37:35.987Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 97%
+2023-07-07T15:37:35.990Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 98%
+2023-07-07T15:37:35.997Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 99%
+2023-07-07T15:37:35.999Z [Modules] Streaming discord_spellcheck@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 100%
+2023-07-07T15:37:36.001Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-07-07T15:37:36.001Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-07-07T15:37:36.458Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 2%
+2023-07-07T15:37:36.461Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 4%
+2023-07-07T15:37:36.463Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 7%
+2023-07-07T15:37:36.464Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 9%
+2023-07-07T15:37:36.466Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 13%
+2023-07-07T15:37:36.468Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 17%
+2023-07-07T15:37:36.470Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 19%
+2023-07-07T15:37:36.471Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 22%
+2023-07-07T15:37:36.472Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 24%
+2023-07-07T15:37:36.473Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 26%
+2023-07-07T15:37:36.475Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 30%
+2023-07-07T15:37:36.476Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 32%
+2023-07-07T15:37:36.478Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 35%
+2023-07-07T15:37:36.481Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 39%
+2023-07-07T15:37:36.482Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 41%
+2023-07-07T15:37:36.483Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 43%
+2023-07-07T15:37:36.484Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 45%
+2023-07-07T15:37:36.486Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 48%
+2023-07-07T15:37:36.488Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 50%
+2023-07-07T15:37:36.489Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 52%
+2023-07-07T15:37:36.491Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 54%
+2023-07-07T15:37:36.492Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 56%
+2023-07-07T15:37:36.494Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 58%
+2023-07-07T15:37:36.495Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 61%
+2023-07-07T15:37:36.496Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 63%
+2023-07-07T15:37:36.498Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 65%
+2023-07-07T15:37:36.500Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 67%
+2023-07-07T15:37:36.501Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 69%
+2023-07-07T15:37:36.504Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 73%
+2023-07-07T15:37:36.507Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 75%
+2023-07-07T15:37:36.508Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 77%
+2023-07-07T15:37:36.510Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 82%
+2023-07-07T15:37:36.511Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 86%
+2023-07-07T15:37:36.513Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 90%
+2023-07-07T15:37:36.515Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 95%
+2023-07-07T15:37:36.516Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 99%
+2023-07-07T15:37:36.517Z [Modules] Streaming discord_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 100%
+2023-07-07T15:37:36.519Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-07-07T15:37:36.519Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-07-07T15:37:36.980Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 1%
+2023-07-07T15:37:36.992Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 2%
+2023-07-07T15:37:37.004Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 5%
+2023-07-07T15:37:37.015Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 8%
+2023-07-07T15:37:37.018Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 10%
+2023-07-07T15:37:37.020Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 11%
+2023-07-07T15:37:37.023Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 12%
+2023-07-07T15:37:37.027Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 13%
+2023-07-07T15:37:37.030Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 14%
+2023-07-07T15:37:37.034Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 15%
+2023-07-07T15:37:37.036Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 16%
+2023-07-07T15:37:37.039Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 17%
+2023-07-07T15:37:37.043Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 18%
+2023-07-07T15:37:37.046Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 19%
+2023-07-07T15:37:37.049Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 20%
+2023-07-07T15:37:37.052Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 21%
+2023-07-07T15:37:37.056Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 22%
+2023-07-07T15:37:37.057Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 23%
+2023-07-07T15:37:37.063Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 24%
+2023-07-07T15:37:37.065Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 25%
+2023-07-07T15:37:37.068Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 26%
+2023-07-07T15:37:37.071Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 27%
+2023-07-07T15:37:37.073Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 28%
+2023-07-07T15:37:37.076Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 29%
+2023-07-07T15:37:37.078Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 30%
+2023-07-07T15:37:37.209Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 31%
+2023-07-07T15:37:37.214Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 32%
+2023-07-07T15:37:37.218Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 33%
+2023-07-07T15:37:37.221Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 34%
+2023-07-07T15:37:37.222Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 35%
+2023-07-07T15:37:37.225Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 36%
+2023-07-07T15:37:37.231Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 37%
+2023-07-07T15:37:37.236Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 38%
+2023-07-07T15:37:37.238Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 39%
+2023-07-07T15:37:37.239Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 40%
+2023-07-07T15:37:37.245Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 41%
+2023-07-07T15:37:37.248Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 42%
+2023-07-07T15:37:37.253Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 43%
+2023-07-07T15:37:37.255Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 44%
+2023-07-07T15:37:37.258Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 45%
+2023-07-07T15:37:37.260Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 46%
+2023-07-07T15:37:37.386Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 47%
+2023-07-07T15:37:37.389Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 48%
+2023-07-07T15:37:37.394Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 49%
+2023-07-07T15:37:37.397Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 50%
+2023-07-07T15:37:37.400Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 51%
+2023-07-07T15:37:37.404Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 52%
+2023-07-07T15:37:37.406Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 53%
+2023-07-07T15:37:37.411Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 54%
+2023-07-07T15:37:37.417Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 55%
+2023-07-07T15:37:37.420Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 56%
+2023-07-07T15:37:37.424Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 57%
+2023-07-07T15:37:37.426Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 58%
+2023-07-07T15:37:37.431Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 59%
+2023-07-07T15:37:37.433Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 60%
+2023-07-07T15:37:37.435Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 61%
+2023-07-07T15:37:37.558Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 62%
+2023-07-07T15:37:37.565Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 63%
+2023-07-07T15:37:37.570Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 64%
+2023-07-07T15:37:37.572Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 65%
+2023-07-07T15:37:37.580Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 66%
+2023-07-07T15:37:37.584Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 67%
+2023-07-07T15:37:37.589Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 68%
+2023-07-07T15:37:37.591Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 69%
+2023-07-07T15:37:37.598Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 70%
+2023-07-07T15:37:37.602Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 71%
+2023-07-07T15:37:37.608Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 72%
+2023-07-07T15:37:37.611Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 73%
+2023-07-07T15:37:37.619Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 74%
+2023-07-07T15:37:37.624Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 77%
+2023-07-07T15:37:37.736Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 78%
+2023-07-07T15:37:37.737Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 79%
+2023-07-07T15:37:37.741Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 80%
+2023-07-07T15:37:37.744Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 81%
+2023-07-07T15:37:37.750Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 82%
+2023-07-07T15:37:37.754Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 83%
+2023-07-07T15:37:37.758Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 84%
+2023-07-07T15:37:37.760Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 85%
+2023-07-07T15:37:37.764Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 86%
+2023-07-07T15:37:37.767Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 87%
+2023-07-07T15:37:37.770Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 88%
+2023-07-07T15:37:37.771Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 89%
+2023-07-07T15:37:37.775Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 90%
+2023-07-07T15:37:37.780Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 91%
+2023-07-07T15:37:37.782Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 92%
+2023-07-07T15:37:37.907Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 93%
+2023-07-07T15:37:37.913Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 94%
+2023-07-07T15:37:37.917Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 95%
+2023-07-07T15:37:37.921Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 96%
+2023-07-07T15:37:37.924Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 97%
+2023-07-07T15:37:37.929Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 98%
+2023-07-07T15:37:37.932Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 99%
+2023-07-07T15:37:37.934Z [Modules] Streaming discord_voice@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 100%
+2023-07-07T15:37:37.936Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-07-07T15:37:37.936Z [Modules] Installing updates...
+2023-07-07T15:37:37.936Z [Modules] Installing discord_desktop_core@1 from /home/meee/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-07-07T15:37:38.173Z [Modules] Installing discord_erlpack@1 from /home/meee/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-07-07T15:37:38.421Z [Modules] Installing discord_spellcheck@1 from /home/meee/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-07-07T15:37:40.841Z [Modules] Installing discord_utils@1 from /home/meee/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-07-07T15:37:42.305Z [Modules] Installing discord_voice@1 from /home/meee/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-07-07T15:37:45.271Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-07-07T15:37:45.272Z [Modules] Checking for host updates.
+2023-07-07T15:37:45.543Z [Modules] Host is up to date.
+2023-07-07T15:37:45.543Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:37:45.555Z [Modules] No module updates available.
+2023-07-07T15:37:48.313Z [Modules] Starting to install discord_krisp...
+2023-07-07T15:37:48.313Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-07-07T15:37:48.314Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-07-07T15:37:48.349Z [Modules] Starting to install discord_game_utils...
+2023-07-07T15:37:49.239Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 1%
+2023-07-07T15:37:49.353Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 2%
+2023-07-07T15:37:49.382Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 3%
+2023-07-07T15:37:49.406Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 4%
+2023-07-07T15:37:49.426Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 5%
+2023-07-07T15:37:49.453Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 6%
+2023-07-07T15:37:49.462Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 7%
+2023-07-07T15:37:49.475Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 8%
+2023-07-07T15:37:49.492Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 9%
+2023-07-07T15:37:49.503Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 10%
+2023-07-07T15:37:49.518Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 11%
+2023-07-07T15:37:49.527Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 12%
+2023-07-07T15:37:49.534Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 13%
+2023-07-07T15:37:49.548Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 14%
+2023-07-07T15:37:49.558Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 15%
+2023-07-07T15:37:49.565Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 16%
+2023-07-07T15:37:49.570Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 17%
+2023-07-07T15:37:49.591Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 18%
+2023-07-07T15:37:49.598Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 19%
+2023-07-07T15:37:49.603Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 20%
+2023-07-07T15:37:49.609Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 21%
+2023-07-07T15:37:49.611Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 22%
+2023-07-07T15:37:49.614Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 23%
+2023-07-07T15:37:49.618Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 24%
+2023-07-07T15:37:49.625Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 25%
+2023-07-07T15:37:49.628Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 26%
+2023-07-07T15:37:49.629Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 27%
+2023-07-07T15:37:49.721Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 28%
+2023-07-07T15:37:49.725Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 29%
+2023-07-07T15:37:49.730Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 30%
+2023-07-07T15:37:49.733Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 31%
+2023-07-07T15:37:49.735Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 32%
+2023-07-07T15:37:49.742Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 33%
+2023-07-07T15:37:49.746Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 34%
+2023-07-07T15:37:49.751Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 35%
+2023-07-07T15:37:49.756Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 36%
+2023-07-07T15:37:49.760Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 37%
+2023-07-07T15:37:49.764Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 38%
+2023-07-07T15:37:49.767Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 39%
+2023-07-07T15:37:49.770Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 40%
+2023-07-07T15:37:49.774Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 41%
+2023-07-07T15:37:49.925Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 42%
+2023-07-07T15:37:49.974Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 43%
+2023-07-07T15:37:49.981Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 44%
+2023-07-07T15:37:49.988Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 45%
+2023-07-07T15:37:49.990Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 46%
+2023-07-07T15:37:49.993Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 47%
+2023-07-07T15:37:49.996Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 48%
+2023-07-07T15:37:49.999Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 49%
+2023-07-07T15:37:50.001Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 50%
+2023-07-07T15:37:50.003Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 51%
+2023-07-07T15:37:50.115Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 52%
+2023-07-07T15:37:50.118Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 53%
+2023-07-07T15:37:50.147Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 55%
+2023-07-07T15:37:50.150Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 57%
+2023-07-07T15:37:50.152Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 58%
+2023-07-07T15:37:50.282Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 59%
+2023-07-07T15:37:50.286Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 60%
+2023-07-07T15:37:50.289Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 61%
+2023-07-07T15:37:50.291Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 62%
+2023-07-07T15:37:50.295Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 63%
+2023-07-07T15:37:50.313Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 64%
+2023-07-07T15:37:50.317Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 65%
+2023-07-07T15:37:50.321Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 66%
+2023-07-07T15:37:50.325Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 67%
+2023-07-07T15:37:50.329Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 68%
+2023-07-07T15:37:50.331Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 69%
+2023-07-07T15:37:50.335Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 70%
+2023-07-07T15:37:50.340Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 71%
+2023-07-07T15:37:50.342Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 72%
+2023-07-07T15:37:50.345Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 73%
+2023-07-07T15:37:50.350Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 74%
+2023-07-07T15:37:50.356Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 75%
+2023-07-07T15:37:50.358Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 76%
+2023-07-07T15:37:50.362Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 77%
+2023-07-07T15:37:50.365Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 78%
+2023-07-07T15:37:50.372Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 79%
+2023-07-07T15:37:50.377Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 80%
+2023-07-07T15:37:50.379Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 81%
+2023-07-07T15:37:50.382Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 82%
+2023-07-07T15:37:50.384Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 83%
+2023-07-07T15:37:50.510Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 84%
+2023-07-07T15:37:50.521Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 85%
+2023-07-07T15:37:50.525Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 86%
+2023-07-07T15:37:50.532Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 87%
+2023-07-07T15:37:50.536Z [Modules] Checking for host updates.
+2023-07-07T15:37:50.539Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 88%
+2023-07-07T15:37:50.544Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 89%
+2023-07-07T15:37:50.550Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 90%
+2023-07-07T15:37:50.554Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 91%
+2023-07-07T15:37:50.563Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 92%
+2023-07-07T15:37:50.566Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 93%
+2023-07-07T15:37:50.572Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 94%
+2023-07-07T15:37:50.575Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 95%
+2023-07-07T15:37:50.579Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 96%
+2023-07-07T15:37:50.582Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 97%
+2023-07-07T15:37:50.685Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 98%
+2023-07-07T15:37:50.693Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 99%
+2023-07-07T15:37:50.694Z [Modules] Streaming discord_krisp@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 100%
+2023-07-07T15:37:50.696Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-07-07T15:37:50.697Z [Modules] Streaming discord_game_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-07-07T15:37:50.697Z [Modules] Installing discord_krisp@1 from /home/meee/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-07-07T15:37:50.812Z [Modules] Host is up to date.
+2023-07-07T15:37:50.812Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:37:50.818Z [Modules] No module updates available.
+2023-07-07T15:37:51.058Z [Modules] Starting to install discord_rpc...
+2023-07-07T15:37:51.217Z [Modules] Streaming discord_game_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 84%
+2023-07-07T15:37:51.236Z [Modules] Streaming discord_game_utils@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 100%
+2023-07-07T15:37:51.246Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-07-07T15:37:51.247Z [Modules] Streaming discord_rpc@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-07-07T15:37:51.696Z [Modules] Streaming discord_rpc@1 to /home/meee/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip: 100%
+2023-07-07T15:37:51.698Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-07-07T15:37:53.085Z [Modules] Installing discord_game_utils@1 from /home/meee/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-07-07T15:37:53.424Z [Modules] Installing discord_rpc@1 from /home/meee/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-07-07T15:37:53.489Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-07-07T15:38:29.172Z [Modules] Modules initializing
+2023-07-07T15:38:29.173Z [Modules] Distribution: remote
+2023-07-07T15:38:29.173Z [Modules] Host updates: enabled
+2023-07-07T15:38:29.173Z [Modules] Module updates: enabled
+2023-07-07T15:38:29.173Z [Modules] Module install path: /home/meee/.config/discord/0.0.27/modules
+2023-07-07T15:38:29.174Z [Modules] Module installed file path: /home/meee/.config/discord/0.0.27/modules/installed.json
+2023-07-07T15:38:29.174Z [Modules] Module download path: /home/meee/.config/discord/0.0.27/modules/pending
+2023-07-07T15:38:29.449Z [Modules] No updates to install
+2023-07-07T15:38:29.450Z [Modules] Checking for host updates.
+2023-07-07T15:38:29.803Z [Modules] Host is up to date.
+2023-07-07T15:38:29.803Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:38:29.810Z [Modules] No module updates available.
+2023-07-07T15:38:44.304Z [Modules] Modules initializing
+2023-07-07T15:38:44.304Z [Modules] Distribution: remote
+2023-07-07T15:38:44.305Z [Modules] Host updates: enabled
+2023-07-07T15:38:44.305Z [Modules] Module updates: enabled
+2023-07-07T15:38:44.305Z [Modules] Module install path: /home/meee/.config/discord/0.0.27/modules
+2023-07-07T15:38:44.305Z [Modules] Module installed file path: /home/meee/.config/discord/0.0.27/modules/installed.json
+2023-07-07T15:38:44.306Z [Modules] Module download path: /home/meee/.config/discord/0.0.27/modules/pending
+2023-07-07T15:38:44.570Z [Modules] No updates to install
+2023-07-07T15:38:44.571Z [Modules] Checking for host updates.
+2023-07-07T15:38:44.926Z [Modules] Host is up to date.
+2023-07-07T15:38:44.926Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:38:44.934Z [Modules] No module updates available.
+2023-07-07T15:40:51.466Z [Modules] Modules initializing
+2023-07-07T15:40:51.467Z [Modules] Distribution: remote
+2023-07-07T15:40:51.467Z [Modules] Host updates: enabled
+2023-07-07T15:40:51.467Z [Modules] Module updates: enabled
+2023-07-07T15:40:51.468Z [Modules] Module install path: /home/meee/.config/discord/0.0.27/modules
+2023-07-07T15:40:51.468Z [Modules] Module installed file path: /home/meee/.config/discord/0.0.27/modules/installed.json
+2023-07-07T15:40:51.468Z [Modules] Module download path: /home/meee/.config/discord/0.0.27/modules/pending
+2023-07-07T15:40:51.826Z [Modules] No updates to install
+2023-07-07T15:40:51.828Z [Modules] Checking for host updates.
+2023-07-07T15:40:52.234Z [Modules] Host is up to date.
+2023-07-07T15:40:52.234Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:40:52.266Z [Modules] No module updates available.
+2023-07-07T15:40:56.315Z [Modules] Checking for host updates.
+2023-07-07T15:40:56.579Z [Modules] Host is up to date.
+2023-07-07T15:40:56.579Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:40:56.583Z [Modules] No module updates available.
+2023-07-07T15:44:17.557Z [Modules] Modules initializing
+2023-07-07T15:44:17.558Z [Modules] Distribution: remote
+2023-07-07T15:44:17.558Z [Modules] Host updates: enabled
+2023-07-07T15:44:17.558Z [Modules] Module updates: enabled
+2023-07-07T15:44:17.558Z [Modules] Module install path: /home/meee/.config/discord/0.0.27/modules
+2023-07-07T15:44:17.558Z [Modules] Module installed file path: /home/meee/.config/discord/0.0.27/modules/installed.json
+2023-07-07T15:44:17.559Z [Modules] Module download path: /home/meee/.config/discord/0.0.27/modules/pending
+2023-07-07T15:44:17.820Z [Modules] No updates to install
+2023-07-07T15:44:17.822Z [Modules] Checking for host updates.
+2023-07-07T15:44:18.179Z [Modules] Host is up to date.
+2023-07-07T15:44:18.180Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:44:18.456Z [Modules] No module updates available.
+2023-07-07T15:44:21.737Z [Modules] Checking for host updates.
+2023-07-07T15:44:22.025Z [Modules] Host is up to date.
+2023-07-07T15:44:22.025Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:44:22.036Z [Modules] No module updates available.
+2023-07-07T15:45:51.305Z [Modules] Modules initializing
+2023-07-07T15:45:51.305Z [Modules] Distribution: remote
+2023-07-07T15:45:51.305Z [Modules] Host updates: enabled
+2023-07-07T15:45:51.306Z [Modules] Module updates: enabled
+2023-07-07T15:45:51.306Z [Modules] Module install path: /home/meee/.config/discord/0.0.27/modules
+2023-07-07T15:45:51.306Z [Modules] Module installed file path: /home/meee/.config/discord/0.0.27/modules/installed.json
+2023-07-07T15:45:51.306Z [Modules] Module download path: /home/meee/.config/discord/0.0.27/modules/pending
+2023-07-07T15:45:51.611Z [Modules] No updates to install
+2023-07-07T15:45:51.613Z [Modules] Checking for host updates.
+2023-07-07T15:45:51.974Z [Modules] Host is up to date.
+2023-07-07T15:45:51.974Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:45:52.002Z [Modules] No module updates available.
+2023-07-07T15:45:55.789Z [Modules] Checking for host updates.
+2023-07-07T15:45:56.063Z [Modules] Host is up to date.
+2023-07-07T15:45:56.064Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:45:56.083Z [Modules] No module updates available.
+2023-07-07T15:47:08.167Z [Modules] Checking for host updates.
+2023-07-07T15:47:08.451Z [Modules] Host is up to date.
+2023-07-07T15:47:08.451Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-07T15:47:08.462Z [Modules] No module updates available.
+2023-07-08T15:27:17.068Z [Modules] Modules initializing
+2023-07-08T15:27:17.072Z [Modules] Distribution: remote
+2023-07-08T15:27:17.072Z [Modules] Host updates: enabled
+2023-07-08T15:27:17.073Z [Modules] Module updates: enabled
+2023-07-08T15:27:17.074Z [Modules] Module install path: /home/meee/.config/discord/0.0.27/modules
+2023-07-08T15:27:17.074Z [Modules] Module installed file path: /home/meee/.config/discord/0.0.27/modules/installed.json
+2023-07-08T15:27:17.074Z [Modules] Module download path: /home/meee/.config/discord/0.0.27/modules/pending
+2023-07-08T15:27:17.561Z [Modules] No updates to install
+2023-07-08T15:27:17.562Z [Modules] Checking for host updates.
+2023-07-08T15:27:17.966Z [Modules] Host is up to date.
+2023-07-08T15:27:17.966Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-08T15:27:17.988Z [Modules] No module updates available.
+2023-07-08T15:27:22.564Z [Modules] Checking for host updates.
+2023-07-08T15:27:22.882Z [Modules] Host is up to date.
+2023-07-08T15:27:22.882Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-08T15:27:22.885Z [Modules] No module updates available.
+2023-07-10T10:05:10.936Z [Modules] Modules initializing
+2023-07-10T10:05:10.943Z [Modules] Distribution: remote
+2023-07-10T10:05:10.943Z [Modules] Host updates: enabled
+2023-07-10T10:05:10.943Z [Modules] Module updates: enabled
+2023-07-10T10:05:10.943Z [Modules] Module install path: /home/meee/.config/discord/0.0.27/modules
+2023-07-10T10:05:10.943Z [Modules] Module installed file path: /home/meee/.config/discord/0.0.27/modules/installed.json
+2023-07-10T10:05:10.943Z [Modules] Module download path: /home/meee/.config/discord/0.0.27/modules/pending
+2023-07-10T10:05:11.495Z [Modules] No updates to install
+2023-07-10T10:05:11.495Z [Modules] Checking for host updates.
+2023-07-10T10:05:11.909Z [Modules] Host is up to date.
+2023-07-10T10:05:11.909Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-10T10:05:11.942Z [Modules] No module updates available.
+2023-07-10T10:05:15.877Z [Modules] Checking for host updates.
+2023-07-10T10:05:16.134Z [Modules] Host is up to date.
+2023-07-10T10:05:16.134Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-10T10:05:16.136Z [Modules] No module updates available.
+2023-07-10T11:05:15.892Z [Modules] Checking for host updates.
+2023-07-10T11:05:16.293Z [Modules] Host is up to date.
+2023-07-10T11:05:16.294Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-10T11:05:16.343Z [Modules] No module updates available.
+2023-07-10T12:05:15.881Z [Modules] Checking for host updates.
+2023-07-10T12:05:16.165Z [Modules] Host is up to date.
+2023-07-10T12:05:16.165Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-10T12:05:16.423Z [Modules] No module updates available.
+2023-07-10T13:05:15.880Z [Modules] Checking for host updates.
+2023-07-10T13:05:16.166Z [Modules] Host is up to date.
+2023-07-10T13:05:16.166Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-10T13:05:16.184Z [Modules] No module updates available.
+2023-07-10T14:05:15.891Z [Modules] Checking for host updates.
+2023-07-10T14:05:16.249Z [Modules] Host is up to date.
+2023-07-10T14:05:16.249Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-07-10T14:05:16.280Z [Modules] No module updates available.

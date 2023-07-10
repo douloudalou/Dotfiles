@@ -1,0 +1,7 @@
+2023-07-07 22:13:17.438 [info] Experiment 'pythonaacf' is active
+2023-07-07 22:13:17.438 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-07-07 22:13:17.438 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-07-07 22:13:17.506 [info] Test server listening.
+2023-07-07 22:13:17.512 [info] Python interpreter path: ~/venv/bin/python
+2023-07-07 22:13:17.884 [info] Send text to terminal: source /home/meee/venv/bin/activate
+2023-07-07 22:13:19.550 [info] Starting Pylance language server.

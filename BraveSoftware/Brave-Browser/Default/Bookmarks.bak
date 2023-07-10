@@ -1,0 +1,446 @@
+{
+   "checksum": "dbfbfe760e28bfa625b8972331fd5f8f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13304436071652892",
+            "date_last_used": "13324721632241396",
+            "guid": "94534afc-0486-475c-9d6a-d16b58225745",
+            "id": "6",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13304436073828782",
+            "date_last_used": "13322992365406272",
+            "guid": "1f9f4db9-0d25-42a9-b3b3-107b190989e8",
+            "id": "7",
+            "name": "Telegram",
+            "type": "url",
+            "url": "https://web.telegram.org/z/"
+         }, {
+            "date_added": "13325766498231806",
+            "date_last_used": "13326776796789157",
+            "guid": "f2b9bf70-dc20-4223-bf49-730074ae1f93",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(70) Discord | Friends",
+            "type": "url",
+            "url": "https://discord.com/channels/@me"
+         }, {
+            "date_added": "13304436075614758",
+            "date_last_used": "13333449186264837",
+            "guid": "45e4dfdf-c9c9-4863-9209-0a42d8dbd86a",
+            "id": "9",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13304437387329975",
+            "date_last_used": "13333387928907417",
+            "guid": "e9fe87f2-51ab-4b83-8508-fed0c4f3d2b0",
+            "id": "10",
+            "name": "Twitch",
+            "type": "url",
+            "url": "https://www.twitch.tv/"
+         }, {
+            "date_added": "13304438355656313",
+            "date_last_used": "13333178634751471",
+            "guid": "67b1f38a-3e10-40dd-ad1e-2f832cb0c7a1",
+            "id": "11",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13304438344548367",
+            "date_last_used": "13326198919123325",
+            "guid": "c9e69efd-10c9-4fc7-ba3a-0707e1b52017",
+            "id": "12",
+            "name": " Codewars",
+            "type": "url",
+            "url": "https://www.codewars.com/dashboard"
+         }, {
+            "date_added": "13307087594312339",
+            "date_last_used": "13326283083082831",
+            "guid": "337105de-d2c5-4bd0-a142-1c3274c01d8b",
+            "id": "13",
+            "name": "udemy",
+            "type": "url",
+            "url": "https://nlbsg.udemy.com/course/the-complete-web-development-bootcamp/"
+         }, {
+            "date_added": "13327153110071740",
+            "date_last_used": "13327153145209328",
+            "guid": "71f0abeb-a180-4881-b8fa-20d2d6667909",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "bootstrap5",
+            "type": "url",
+            "url": "https://getbootstrap.com/docs/5.3/getting-started/introduction/"
+         }, {
+            "date_added": "13307094664221329",
+            "date_last_used": "13326197685342063",
+            "guid": "a6fd54bf-4f93-4fdb-9b14-04483cb4e38d",
+            "id": "15",
+            "name": "Web dev res",
+            "type": "url",
+            "url": "https://www.appbrewery.co/p/web-development-course-resources/"
+         }, {
+            "date_added": "13316086887507801",
+            "date_last_used": "13325319260239735",
+            "guid": "ad553e0d-85d8-41f9-b1bf-89e86b1e419f",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "eServices",
+            "type": "url",
+            "url": "https://www.ns.sg/nsp/portal/site/mindef-pe/!ut/p/z1/lVFNa8JAEP0tPeyxmVmzrbG3hUhQW6piUOciCcQ1EHfD7trQf29aQRBrqnOb4X3MvAGCFZDOvkqV-dLorGr7Nb1uPmci4QJ775gM-ijj-Wwafwy5mPRg2QkQIdBD_AjDF5SLeM6HC4ERx_v4eKMkPuh_DaBu-SVQp8VPApeAyxOTKe8G_Gbw3xZjIFWZ_PQwqfMwUkC22Ba2sMHBtuOd97V7Y8iwaZpAu8AphtrVDGtjfVYxdKUvGFZGmYP_S2ZnXDs_s6Hep2m6wnL0TPl3I5-O9mhfFg!!/#"
+         }, {
+            "date_added": "13305219385393306",
+            "date_last_used": "13326198959318506",
+            "guid": "c2153579-779e-432c-9155-ea0d77dd8184",
+            "id": "17",
+            "name": "Java Tutorial",
+            "type": "url",
+            "url": "https://www.w3schools.com/java/"
+         }, {
+            "date_added": "13304438397380248",
+            "date_last_used": "13326197734682614",
+            "guid": "76e2a80a-5d18-4db9-b2b2-bb187480c7c1",
+            "id": "18",
+            "name": "Amazon.sg: Shop Online for Electronics, Computers, Books, Toys, DVDs, Baby, Grocery, & more",
+            "type": "url",
+            "url": "https://www.amazon.sg/?&tag=googlepcabksg-22&ref=nav_signin&adgrpid=96592222980&hvpone=&hvptwo=&hvadid=584076140810&hvpos=&hvnetw=g&hvrand=10091155943061601917&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062515&hvtargid=kwd-360364908397&hydadcr=2948_328410&"
+         }, {
+            "date_added": "13304438438762463",
+            "date_last_used": "13326209180048596",
+            "guid": "ed9ef1b5-8f1b-43b6-879f-8987dae1d080",
+            "id": "19",
+            "name": "myPortal",
+            "type": "url",
+            "url": "https://myportal.ite.edu.sg/"
+         }, {
+            "date_added": "13304438482347702",
+            "date_last_used": "13323783729872839",
+            "guid": "63c89648-b589-454c-85f7-98d32d7ec166",
+            "id": "20",
+            "name": "My Institution Student Widget Tab – Blackboard Learn",
+            "type": "url",
+            "url": "https://myconnexion.ite.edu.sg/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_11_1"
+         }, {
+            "date_added": "13304440484920310",
+            "date_last_used": "13314792197644791",
+            "guid": "ab6e6088-53a5-4604-a4b3-f8779b11766f",
+            "id": "21",
+            "name": "FGO",
+            "type": "url",
+            "url": "https://appmedia.jp/fategrandorder/96261"
+         }, {
+            "date_added": "13304604363312827",
+            "date_last_used": "13308989144694467",
+            "guid": "d3c91360-1f77-44ff-b77b-5609ce11388d",
+            "id": "22",
+            "name": "Novel",
+            "type": "url",
+            "url": "https://www.mtlnovel.com/"
+         }, {
+            "date_added": "13315208912060258",
+            "date_last_used": "13325582305535197",
+            "guid": "fdc92398-0eb7-4486-b617-3c1d1e406e17",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "z3nsh3ll",
+            "type": "url",
+            "url": "https://www.youtube.com/@z3nsh3ll"
+         }, {
+            "date_added": "13317447531743912",
+            "date_last_used": "13333448926863292",
+            "guid": "1c1a1a9a-21ec-45c5-89df-4eb349c9abd8",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GPT",
+            "type": "url",
+            "url": "https://chat.openai.com/chat"
+         }, {
+            "date_added": "13324279902161619",
+            "date_last_used": "13326198003471819",
+            "guid": "bce5ea6f-b810-4541-9526-7eaae7fe98ce",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "text2sql",
+            "type": "url",
+            "url": "https://www.text2sql.ai/app"
+         }, {
+            "date_added": "13318252017991208",
+            "date_last_used": "13326732205401262",
+            "guid": "aff2b66b-2083-4bb5-a3af-f06f03eb82da",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nginx on Ubuntu",
+            "type": "url",
+            "url": "https://www.vultr.com/docs/how-to-install-and-configure-nginx-on-a-vultr-cloud-server/"
+         }, {
+            "date_added": "13319799111613211",
+            "date_last_used": "13322221447745853",
+            "guid": "9d94dff9-22eb-497f-86c7-087fe0074668",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "php on nginx",
+            "type": "url",
+            "url": "https://www.vultr.com/docs/installing-configuring-and-securing-php-8-1-on-ubuntu-20-04/"
+         }, {
+            "date_added": "13319113871827701",
+            "date_last_used": "13326044099620483",
+            "guid": "f6c6e274-55ae-489c-acf2-1e95f8242635",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Deploying a Node.js site to Vultr - DEV Community 👩‍💻👨‍💻",
+            "type": "url",
+            "url": "https://dev.to/hayleycodes/deploying-a-node-js-site-to-vultr-j8d"
+         }, {
+            "date_added": "13323414352545755",
+            "date_last_used": "13324832901370589",
+            "guid": "a0d4c52f-4340-48ff-a801-14de99e9cf47",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Building a simple invoice generator with Node Js - DEV Community",
+            "type": "url",
+            "url": "https://dev.to/olaf_ranai/building-a-simple-invoice-generator-with-node-js-lah"
+         }, {
+            "date_added": "13319651490907695",
+            "date_last_used": "13322221449994451",
+            "guid": "1ab15bfe-c119-42c4-933c-89a0cc3be357",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to setup PHP on Nginx with fastCGI (PHP-FPM) example",
+            "type": "url",
+            "url": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Nginx-PHP-FPM-config-example"
+         }, {
+            "date_added": "13319373138977242",
+            "date_last_used": "13326043832407521",
+            "guid": "6d0fb5da-efd8-42a8-87d6-73bc4b701807",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Upload Files to GitHub Quickstart Guide",
+            "type": "url",
+            "url": "https://www.dennisivy.com/github-quickstart"
+         }, {
+            "date_added": "13319488666484106",
+            "date_last_used": "13325581642865675",
+            "guid": "07cae550-0b89-4022-8944-d506c20bfd07",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "nodejs session",
+            "type": "url",
+            "url": "https://stormpath.com/blog/everything-you-ever-wanted-to-know-about-node-dot-js-sessions"
+         }, {
+            "date_added": "13319818837769893",
+            "date_last_used": "0",
+            "guid": "f6df5cb4-7aa3-47c7-8e77-c2b1df68fc87",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "node.js - How to setup nginx configuration? - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/34278909/how-to-setup-nginx-configuration"
+         }, {
+            "date_added": "13324656088447992",
+            "date_last_used": "0",
+            "guid": "aac202b2-a4ed-4814-861d-95017c92a519",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Introduction to Node.js",
+            "type": "url",
+            "url": "https://nodejs.dev/en/learn/introduction-to-nodejs/"
+         }, {
+            "date_added": "13325743188380249",
+            "date_last_used": "0",
+            "guid": "56d1ebe3-756f-43f7-a4a7-1f0942ff3471",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to create signature pad in html | signature pad JavaScript - DEV Community",
+            "type": "url",
+            "url": "https://dev.to/stackfindover/how-to-create-signature-pad-in-html-signature-pad-javascript-3866"
+         }, {
+            "date_added": "13326289926774438",
+            "date_last_used": "0",
+            "guid": "999902b7-7dfc-4935-8602-d89e76eb8748",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "smt",
+            "type": "url",
+            "url": "https://fantia.jp/fanclubs/209871"
+         }, {
+            "date_added": "13326726125532141",
+            "date_last_used": "0",
+            "guid": "37d15b38-4042-4d26-b35d-e11fd57581aa",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "My Dashboard - NetworkChuck",
+            "type": "url",
+            "url": "https://learn.networkchuck.com/enrollments"
+         }, {
+            "date_added": "13328022590003057",
+            "date_last_used": "0",
+            "guid": "b7cc98c7-d478-4e7f-ae0b-6b87b910ddd2",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How To Set Up the code-server Cloud IDE Platform on Ubuntu 18.04 | DigitalOcean",
+            "type": "url",
+            "url": "https://www.digitalocean.com/community/tutorials/how-to-set-up-the-code-server-cloud-ide-platform-on-ubuntu-18-04"
+         }, {
+            "date_added": "13328027746073440",
+            "date_last_used": "0",
+            "guid": "5d7b2832-29ad-4352-bbcf-7a0ee9523d22",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CRM – Figma",
+            "type": "url",
+            "url": "https://www.figma.com/file/pXaDWsQWop3lQ21Dddworb/CRM?type=whiteboard&node-id=0-1&t=RA4WO4z75GQyBbI6-0"
+         }, {
+            "date_added": "13328216198155891",
+            "date_last_used": "0",
+            "guid": "a730d51c-6795-4df6-b9e3-238975319e02",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "miro",
+            "type": "url",
+            "url": "https://miro.com/app/dashboard/"
+         }, {
+            "date_added": "13328768073486619",
+            "date_last_used": "0",
+            "guid": "ed90c61d-5390-462c-bd6d-9c7abadb6d9c",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Delete the EFI System Partition in Windows 10 or 11 | Tom's Hardware",
+            "type": "url",
+            "url": "https://www.tomshardware.com/how-to/delete-efi-system-partition-windows"
+         }, {
+            "date_added": "13329303366104945",
+            "date_last_used": "0",
+            "guid": "c8647a8d-825d-475c-98ed-59caf0e8256d",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "add",
+            "type": "url",
+            "url": "view-source:https://www.dcap.my/user/application"
+         }, {
+            "date_added": "13330106624775144",
+            "date_last_used": "13330191493160025",
+            "guid": "4dafbd75-d4ea-466b-a13d-51929bc0566f",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "play.ipynb - JupyterLab",
+            "type": "url",
+            "url": "https://playground.modular.com/user/kahjunt@gmail.com/lab/tree/play.ipynb"
+         }, {
+            "date_added": "13330106916938159",
+            "date_last_used": "13331313511962569",
+            "guid": "2ecd7c1a-8074-4fdc-9d26-48c0dd048c9b",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bard",
+            "type": "url",
+            "url": "https://bard.google.com/"
+         }, {
+            "date_added": "13330107067628328",
+            "date_last_used": "13330194246101626",
+            "guid": "f0ed05b3-5ee4-49c8-a6fc-ea50a839a5e4",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "play.ipynb - JupyterLab",
+            "type": "url",
+            "url": "https://playground.modular.com/user/kahjunt@gmail.com/doc/tree/play.ipynb"
+         } ],
+         "date_added": "13333178460564611",
+         "date_last_used": "0",
+         "date_modified": "13330107067628328",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13333178460564616",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13316065310535934",
+            "date_last_used": "0",
+            "guid": "35c78003-eb83-40f0-a311-9ab52d29cd91",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WuxiaX - Your Wuxia Novel World",
+            "type": "url",
+            "url": "https://www.wuxiax.com/"
+         } ],
+         "date_added": "13333178460564621",
+         "date_last_used": "0",
+         "date_modified": "13316065310535934",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CowBChAIiIECEgrQ6MTqpWIAAAAAEgAaWEVLamlXWnE5ejgyYVFaRk0vakJKczhvbnJtQk9QcnZoeWJrS1lBczRLK3Q0QUhJSFVzQitZTjUvU2pCbkgxL0QzTUZJVDBPZXJjSTZMWitDYTFnYjNBPT0gASoYVUdpRUQrU2c1VUFrTWh1R3BNbFlzQT09SAMSgwEIARJ/Chx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRiN2EyNzljMi02NjE5LTRjMzYtODc4ZC00N2E3ZGY4MDFlZjMYACAAKAAwATjSlo6W+zBA0paOlvswShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKoAQgLEqMBChxIMHFVRzJ6Zm13SXVsL3gzbGxRWkJGQTc2Z0E9EiQxMjQ5MDgxNy03MDliLTRhZDItOGM5OC1iOTlkYTIzZjFkNzEYACACKAIwo7Si9ZIxOK6kkZb7MECgqKL1kjFKHHhHSE9SNDdKK0NKbHZVV1pYS3VxNEhOd0RWQT1aHyId+3FLdlQxU0xLcGExWVc2WmZUTlRtNGpDZFg4ND1l1Ezo0BKnAQgFEqIBChxEL09VY2hvMTF2SW5iM2N6bTNkRzBJS1pvZ1k9EiQ0OTVhMjAwOS01NTM3LTRmYTctODI5Mi0yODc5ZTFiYWUwMDQYACAAKAAwjsnN9IMxOMnAzfSDMUDJwM30gzFKHEhDOXY2NHduSDhqZ1hDOVVHK3hEdUFOZ1ltbz1aHiIcbklIbFZzUk1vOFpRckIzanRaNFdWd2tXTzhZPWXMM+C3EqgBCAcSowEKHElickY2UEhTL0xYMkFHa2tHSFd5SDR1eTNzYz0SJDZlNTlmYTk4LTM1OTItNDUzNS05ZWVkLTQwYWQ2N2Q1ODczYRgAIAIoAjCLtKL1kjE4rqSRlvswQJ2oovWSMUocUkgvODI1a01pbVhQZ0w0aThPZGRWU1hZNVhzPVofIh26NHYxSEU2RHgxM1NkWnZsS3g2NG05ZmdBU3hzPWWjx+D8EqsBCCYSpgEKHG5qaUlYWWRkMm84UitYbjUzcnZldFBlMmdRZz0SJDc4NTQ1YzhhLTI1YjktNGM4Ny04OGUzLTgwMjA0MDEwYjdiNRgAIAAoADDLxp3BhDE4tdTb2v8wQLXU29r/MEocby9FbVRCOStOWEhld2hGQnA0endacnlKZUVnPVoiIiD////9T3dkNHZ5OTdJZ2c0NTZCVFFuZFl1S3E3Kzk0PWUiChMbEqsBCCQSpgEKHDFpenZWc2VlcXVkelNvRFlxRGlPdlB4TEwvQT0SJGMyZGI1N2I1LWY3MmYtNDIwOC05OGM4LTNkNzY0OWEzMTI4ZRgAIAAoADDzxZ3BhDE4rqSRlvswQK6kkZb7MEoceVlkcXV2eWtUZTBya3BWczlacHhsTFpYNHZnPVoiIiD////1UXlONDR5L1krQkRnZ0hhcUdIT0h3ekdoYjVVPWU0PuhHErABCCkSqwEKHGZ5cFZneGhBbk9Sbk0rSnNXVXBUYTlIZFVjQT0SJGZhNjhkYTgxLTVjZGQtNDE0Mi05OGNiLWZlYWE1ZGJmNmUyMxgAIAAoADDHxZ3BhDE4jq6YvoIxQI6umL6CMUocNm1EUmFpenZmNGVJaXRtRjUvdU9Ja29JSE5FPVonIiX/////AAAABL02blpqUVp5elZ6ejB5eHZwNmxOTFJHZUZJQTQ9ZTTxjN0SqAEIDhKjAQoccVNUTkx0OXY1MGNYRE5PalpoQ2RMaE92UDFBPRIkMGE4ZmU3ZDktODlkMC00ZTVhLTgxZDMtMDAyMTgxY2RkOWNmGAAgAigCMJW0ovWSMTi46I68/DBApaii9ZIxShxMSkRsa0JOd2IzWnU1eDVHNzNFS0hlbWJCa0U9Wh8iHf80b3A0Z3NwVVgwS2lOcitBcC8vS2hOaU1vaUk9ZXFCU5wSpwEIBhKiAQocQ1E4UnpGNHVISXdnK2l3aGJ0TVRzUTVpNmVZPRIkMTAzY2E3ZWMtNjM5My00ZmU5LTk0ZmUtYzdhYTdjMTk5MzJiGAAgAigCMPSzovWSMTiupJGW+zBAnaii9ZIxShxHRGRMZUE0bkxVbEg3STV0L1N2bm5DU0I3djg9Wh4iHHVsdlI0N3h3WTdmemxlN01haVV0V0pGUCs4ST1l/dYgchKrAQgnEqYBChxLdVo5WUM2bytraFI3OVlLcE9UVXBvYkhlSU09EiRjNzY0MzE2Zi02Nzk5LTQ2NWYtODkyOC1mYWU2MDM1NzZkOTQYACAAKAAwgcjM0IsxOJuult3/MECbrpbd/zBKHERqeTJldDlPZkJFckd6bHZZanFiQktvc2RwOD1aIiIg/////m1tT3p1ckprVFFEUDlaTURnaDdHWEZtb1NxOD1lB9kXVBKqAQgcEqUBChxHci9ZRVZodW1ja051RkVzaTk1MzFIOFA2bUk9EiQ5Y2UzMWU1OC04MGRlLTQyZGItODBhOS0xZTRhNDBiMjE2NDAYACAAKAAwvcWdwYQxOK6kkZb7MECupJGW+zBKHHNPcHJqQVo0VC9ZdWxVY21WdFJBQjF3UUNNWT1aISIf///pUG0xeUtqMW5nQk9ISzBXcHg3YWl4NzAwVVVJPWUzxnP3EqgBCAgSowEKHHo1NS9MK0szclAxY0pvbE5IQzJncFRuamtwaz0SJDhlMGZmM2Q0LThmNGYtNGViZC1hNGE2LWNjNDJjZjNiNWQ0NxgAIAIoAjD5s6L1kjE4rqSRlvswQJ6oovWSMUocNlh0cndtb0VGRm1lTHloUWVTRmgzU09tV1NVPVofIh3dSVJ0VTN1dWc5SGJuU3ZyTmQ4eGhCb0tLVW5zPWXANWoiErABCCsSqwEKHEhvbVNwZXlBa0hHVHFlQlBwYk9iRXdHWEt3ND0SJDg5Yjc0YTc3LTA1YjItNGI2YS04MDljLWNiNjU0OGU2NTgzYxgAIAAoADDJm/fkhzE4iYa7vIcxQImGu7yHMUocKzNSNnNEOWl1R0hJb0VIcjZTUUt1aFVuZVpvPVonIiX/////AAAABO9JeHpDVkxzeU5uOWEzMTNkV0IzSFlRYXFicDg9ZQ1dXgASqAEIDRKjAQocQnZZKzlUSmRMWU9oNlVjamdoYlliSjJFRVJvPRIkYjNiNDNlNmQtNTlhNC00ZWUwLTkzMGYtOTk2ZWM2ZjFlOGZmGAAgAigCMIK0ovWSMTiupJGW+zBAoaii9ZIxShxiVmJvajBNbkFyckZYRjd3bWFqQ0dsYllZTXc9Wh8iHf5ldUZ0RTEvWUd2WUJPL1BXYzVLY0NTVEhPNEE9ZQSi1gcSqAEIDBKjAQocM3dxNkZJT0RLdTNReHVjZ3BJbmhKK3B1WGZBPRIkMjlkMjdjMmUtNzJiZi00YTRlLTk4MzQtNDg4MmM4M2EwNGFiGAAgAigCMJm0ovWSMTiupJGW+zBAoKii9ZIxShwyMVpBZ2QvaGMzZGRsVmp5OGJ0RE1yQU5mZGM9Wh8iHf0wZmQ3SU5iWDR0dnZreEZPSXlKeThveDBJc289Zb51KUISqgEIHxKlAQocR1ZZdmFzNjIvblN3WFVxUC9sdExXOXJqNEpVPRIkNDY5NDZkN2QtNTBhNi00MTgxLWI2MDEtZDkzOWUyNThjNDExGAAgACgAMOTGncGEMTiupJGW+zBArqSRlvswShxwSks1TUtJU3hmd2xNTTZyYWRzUklKbEYwWEk9WiEiH////W4zNnpXekNyRUkrUlNYa2t4bDRrUHAzdXhDWT1lAOEMqhKpAQgWEqQBChxreFpxQUp6M3ZFR3pKSk15RDlRY2Ftd2tWc2M9EiQwNGZjZWQyNC1mZTQ5LTQ5NjgtOThjYi04NTY2ZDU1YTM4Y2QYACAAKAAw/cWdwYQxOK6kkZb7MECupJGW+zBKHHpralo4Q3ZMUll2NHBTS2NTR0pVQjJyb1NKZz1aICIe//00NjdyNXBCaHhrMWlFZjFwME43bVBOa3Nramc9ZSr9jEcSqQEIEhKkAQocTUZBMitOOWRRZEkzY2IwOXV1bTV0RC82eFdvPRIkODgyZTY0NWQtZTJhNC00OWQ1LWExZDktYjNjZDJmNjhhMGVlGAAgACgAMPjFncGEMTiupJGW+zBArqSRlvswShxYdlRRSXN3U2xlWHk1eEhmTnRHNDIyTGh3Smc9WiAiHv/dQnpWUmRxNnoyS3ErMnNoSzZRNjFtbFgxdmVFPWXDfjbUEqgBCBASowEKHDBlVkRDbFZyS1QrQkZUU3RDYzQ1c0U1Qzl1MD0SJDMzOTM4ODIxLWUyZmQtNDJmZi1hNDUyLTU4MDUyNGNiODkxYRgAIAIoAjCotKL1kjE4rqSRlvswQKaoovWSMUocQ0tHOEQ1L2x1U3U0d0FZZGw5dFRtTmN2dURrPVofIh3/dTBhMFF2WGhUZ2ljVlBaUFBxOXBxdkovdjlFPWXNmBNUEqsBCCUSpgEKHC9FSnBNMU02SW5qVnVsY3BrV0VQYklTWTdSQT0SJDFhMzcyYjhhLWY3MzYtNDRlMi1hMDlkLWZhYTZlMmZjMGNmMRgAIAAoADCDxp3BhDE4rqSRlvswQK6kkZb7MEocckc1TEdwNXh0K05jYkR3dTdzNmZZKzY0OWdzPVoiIiD////6NzZ5bE84cWNQclcrQmY0QzRxQWZDV3FKbG13PWWDRly+Eq8BCCgSqgEKHHUxOHVjMjE0Szc3QjFBSnVNTU1KQlkxVzhHQT0SJDAwNzY3YWQxLTY2NzUtNDczMC1hYzI4LTlhNjg1YzU2ZGRhZhgAIAAoADDPxp3BhDE4jsiEt4AxQI7IhLeAMUoccjhua1lkdGxURkdWdTBZNXZnTzFOTUlzajUwPVomIiT/////AAAABHplV1N0eE1NU21VZHM3dG9zOGtNaHgwRmhHST1lSvZA4BKpAQgTEqQBChwycHBZY0wvcHlEYjBnelN1NDZhdlV1SFFjQ2s9EiRjOWMzNGNkOC01YWU1LTRhMTQtYWY3Zi0zZGNhY2JmNDY4NTcYACAAKAAwj6aRlvswOK6kkZb7MECupJGW+zBKHHhnelMzZWFBNFBTWndOZUZickN5UnJnSW5VYz1aICIe/+5iUGRBSmpMaGNTMDdGMXVlRWVvSEFxWkhTZzg9ZQAAAAASqAEIDxKjAQocR3hTMGJQbXBRSk1qOTVpdnpFTVlrS29velBrPRIkMGE0OTFiM2UtNzBkNy00OWY3LThjZDItYWRmNmUyNTkxZmZmGAAgAigCMP2zovWSMTiupJGW+zBApqii9ZIxShxBSnRIaEREQnlEMTliUWk5THQ0Um52VVVlbmM9Wh8iHf9VaTdVVThyelY3YzZnTUlNQytjdXhqRGNZSWc9ZVxpXUsSqAEICRKjAQocTEpLajVsOGxhWkJwTE15cWxCOFA2Q250STZrPRIkNDA4Yjk1ZjYtMDBmZi00NzMyLTk1ZWItNjBhNjU5MWNkMzgwGAAgAigCMJC0ovWSMTiupJGW+zBAn6ii9ZIxShxXV0JJdmo3MUNaYW54dlZSNHFXdmd5Mno5aFU9Wh8iHe5CanpDM0VLek4vSUhhLzZJajNjNlFGNHZXOWM9ZTj5OTMSqAEIChKjAQocalB1UzhzQW9QbnZGMEVLMFRsd2tia0lyY2E0PRIkYzEwNGJkNTItOWQ1Yi00NzQwLWE5NGYtYTk2MTNiM2U0ZjNkGAAgAigCMJ60ovWSMTiupJGW+zBAn6ii9ZIxShw3NFJPQkJ0SVVGYnFJSXkzdkFydmdjVVBXSVk9Wh8iHfdNRm9uMGZBOVRRUk5jNGR5TzIxRUNWVnVJWTA9ZeOAymoSsAEIKhKrAQocMnN3TFRQZlNnVDM5cjUxSFl2T2IyVXN4U0JvPRIkYjFkMWFlOGMtMWQ5Ny00YTU3LWI4MWItMjcwYTk3NTNlYTVmGAAgACgAMLfGncGEMTjPv53BhDFAz7+dwYQxShw1V0N2QVFhMXYvNXAwOGpLbktBUTVBaG1vNFU9WiciJf////8AAAAE3lV1VWFNejU2UjdBOUJ4MEVHRFNuZjliZUpxST1lAAAAABKpAQgUEqQBChxSM3BDQkRlQXJSVTVkamJhK2RlZWxCN2Z6NzA9EiQyYmYzNzE1ZS1mY2RjLTQ5MDEtYjc4Zi00MWNmOTY3ZTQwNjkYACAAKAAwoMadwYQxOK6kkZb7MECupJGW+zBKHGpaMmxHMUNNK3dDbERHcW41M1ZRcjczZk02VT1aICIe//dDOWxCZHVrNll1aElNMlNmOFBIMDJjdjNxbTA9Zfd+x64SqQEIFRKkAQocVW1EZ0VDdy90VmlnZHozVExkUngyTldXVG9BPRIkOWUzZmY5Y2MtYTJhNC00NGMwLThiZWQtODhiYWZiZDQ3ZWMxGAAgACgAMPTGncGEMTiupJGW+zBArqSRlvswShx3dFNXUGN1eVVjN3ZldE5IUHBZb2JZZytoc2M9WiAiHv/7TXZGM3FRL3NHTGZGSktjQzZDQWtaMDBUYnQwPWXOcMamEoMBCAMSfwocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkN2EyMmQzN2EtMWY3Zi00ZGFjLTgxN2YtYTZjZGY3MjZjOTMzGAAgACgAMAE40paOlvswQNKWjpb7MEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqQEIFxKkAQocWFNVUStROUcrd1BOUlBPOGN6VHJhSnpickcwPRIkZjAwNDI5MWQtZTRhZi00OTE1LTk0MmItNDY5NjQwMmJiNDdhGAAgACgAMLLGncGEMTiupJGW+zBArqSRlvswShxHcFNVWi9lRGZqMlhMSjcvNFllVXJHcERvSUU9WiAiHv/+SVdyN3JHTGJMaVNCQURobGlYckNPOTYrSzY0PWU4+TkzEqoBCBoSpQEKHHJMakQvbjlta3F1UFE0czBWbndhL3pjVGVKND0SJDlmMDlkNzA5LTI3MGQtNGFhNS1hOGE4LTg1OTUyZDVmMzQ2ZBgAIAAoADDWxp3BhDE4rqSRlvswQK6kkZb7MEocck12NlNoV2VlT2tiV1VVNFJ2Q0dybVR3RURJPVohIh///6crWkQ1Y0dVRFY3UnZTWE1WM2JYRGs5Qmwya0E9ZYQh61MSqwEIIhKmAQocdXhJZkJEZUVPNnpQRi9hRnRXaS9RZE13dFlnPRIkNjA4NTVjM2QtODQ3ZS00MDA5LWI5MzgtOTA1MjQwNGRmMzk0GAAgACgAMP7GncGEMTiupJGW+zBArqSRlvswShw2TWgyZERMM2pUbXZHQ2tNZGZLeSsrVURRNzg9WiIiIP///6hEVlVWQ3cyTUtlYWIxdHFJWjVqN2JxMkx2WlU9ZQJuFdwSqQEIGBKkAQocc2pBWFR1ZVJMQStwS0FXeHF4bXVJOU1vejVBPRIkZDc1OTQxNzgtZjUwNy00MzVlLTlkZmUtOTExYzBlYTljYjcyGAAgACgAMKfGncGEMTiupJGW+zBArqSRlvswShxhdDNCTnlpUzFyUjJ6T0txZzA3OE1xV1NyOE09WiAiHv//RzJoZlhZVXd1UEZNay9INHNSaVBRUERvYWEwPWVpGyLzEqoBCB4SpQEKHDI2N01lSW56Sk90dTk3SmxQSW5pUlcwa1FBZz0SJGQ5NDQxNjQxLTEwMmEtNDM2OS1hNDhmLWYwNmJkZjk3MDI4ZRgAIAAoADDaxp3BhDE4rqSRlvswQK6kkZb7MEocMFdkaWJlandZbVNCcGRUM3d6a0ZLM2t1VXlrPVohIh////o0SFJhajBaVWNub0tDY1lTR3B6Z0pQdFJ1U3c9ZU4HZIgSqgEIGxKlAQocUzBBaXp0MVJQZUJ4aS9RWHFPUTlNdzRBUzZVPRIkOTNkMzQ4NTMtMDg3Ny00ODBlLWE2NGEtNWM3NTI4OWVmYzVlGAAgACgAMJfGncGEMTiupJGW+zBArqSRlvswShxLdmdBeU44OFlkaE1SQ2o4b2MzVXVndU5NT3c9WiEiH///03ZjK0xUdGFjcXJYaGppRUh3dUQzY1piZTcwcz1lhCHrUxKqAQghEqUBChx6SnQyc0Era3kzM1pTQUZPelBzOWlDSVFqYms9EiQyYWQxMmY2YS0yZDY5LTRiZTctOTYwOS1mZGRmNDgzOGE3ODAYACAAKAAw6sadwYQxOK6kkZb7MECupJGW+zBKHDJSNmdXb01JRXdpNXY2RjVqMWQ3a1FIaXlaUT1aISIf////UGdxb29OZWV6ZHFCTDdPM0VaSXQxVnFKYTZFPWUPzDQUEqoBCCASpQEKHGhQaWxwOWhPaC9UZFg1R1A3dnFSTnM5dHNiRT0SJDhkNGY1MjJmLWY3ODEtNGY4ZS1hYTZjLTU4ZmJlMWZkNjI1MBgAIAAoADCcxp3BhDE4rqSRlvswQK6kkZb7MEocTUJTRjdoTjIrT0dOL0R1MXE3Sm5OajR1RnBZPVohIh////5oRlFyaFdtU09Qd1lOb29RMGFRbkh6WHJ0YWs9ZYTwVrcSqQEIGRKkAQocUm9CWVl2WnJWRkgxWWhuenNnMitYeTl2WDBrPRIkZjJkMGU1NDEtMjgxMi00YWRmLWJkMjAtNGEwOTcyNWJjNjBhGAAgACgAMI7GncGEMTiupJGW+zBArqSRlvswShx4SXdyTEZVdFRyYXBoZWMvV29DS2lLWmxiTlE9WiAiHv//T3J2L0FDSXUvTTBET1JsZ1ByRnFNMXUyNXFrPWXYU+KPEoMBCAISfwocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNzgyNGRhYTktYTUzNC00ZmRjLWFjMmEtZmYwNTVhNTkyZDVkGAAgACgAMAE40paOlvswQNKWjpb7MEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqQEIERKkAQocNkZxMmR4d2JnN01KalExSmo5QkxUMnhMTzAwPRIkOWVjODIwYWItYjViOC00NGU4LThmNWMtNDhlMjE0MjAzODBiGAAgAigCMIe0ovWSMTiupJGW+zBAp6ii9ZIxShxCa2NVMWFwVUhYZDFNdXFzOFpPL0pyZHdON3c9WiAiHv+6K3BlRWNlRTVPSHp5dGtmaCtXYUdBRG9RUTRRPWXq8IzrErABCCwSqwEKHDdwaHdDUElQVUhXZnpYMFdESXNid1c2RFMxMD0SJGYyZTE2MzhjLWFlNGYtNGQ0NC05YjU2LWI1ZGQ1M2JiY2IzNhgAIAAoADCD7Pn7izE4yvDMvIcxQMrwzLyHMUocbmlSdUE5THkyam9veDRhakNMUHFmaHNGamo4PVonIiX/////AAAABPdxd1lIVGVLM0FmcldmaEc0S3NFVUlPdGgyaVU9ZQtkJg0SqgEIHRKlAQocUzdCdXlGV3BMY09OZ0Qxb1lSZWI2cWord1NjPRIkNWNmYWMwYTItMjIyOC00ZWRiLWFjNTAtODNhY2I2ZTI1OTYxGAAgACgAMO/GncGEMTiupJGW+zBArqSRlvswShxMNTlLaFpaUXdEMFJ0TmtlN25FdHNFRjd2bVk9WiEiH///9FJLU0hhWXNuUVNYSmNGdituWldpSmpVRFRjbz1lM8Zz9xKwAQgtEqsBChxIZXNYei9SSXZmdU8xMmdJZkFRQ2FxSEV2L0k9EiRlNDkxOTliNC0wNTE4LTQyZDEtOTEzYy0zOTRiMTkyZjhiNmUYACAAKAAw0sSh5ocxOOyJ1ryHMUDsida8hzFKHDQ3SmZFWEhrYSsvcFl0bVpsYnhPaDRIZ3R3OD1aJyIl/////wAAAAT7MEMwZ3dBN1BKcjJ3SXl0OThUZ2drY2xDWFJjPWXzu3dJEqsBCCMSpgEKHFROTUtGd0ZKNXFSc3NITkdta0Z2bDkzL1NCUT0SJGFhOTY2NmJlLTBhNTItNGQ4MS05M2M4LTcwNzUyNjE0N2M2YxgAIAAoADDGxp3BhDE4rqSRlvswQK6kkZb7MEocYU9VYmEwZjdSOWE1ZzJQZHk5eTMxL0t0YkY0PVoiIiD////qLzBBMU9MV2tlUU1iK0pmZ3cvMnNnbjRyTktZPWUzxnP3MAE4AA==",
+   "version": 1
+}

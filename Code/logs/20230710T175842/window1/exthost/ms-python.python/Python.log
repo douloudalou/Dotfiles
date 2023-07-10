@@ -1,0 +1,8 @@
+2023-07-10 17:58:44.801 [info] Experiment 'pythonaacf' is active
+2023-07-10 17:58:44.801 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-07-10 17:58:44.801 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-07-10 17:58:44.849 [info] Test server listening.
+2023-07-10 17:58:44.864 [info] Python interpreter path: ~/venv/bin/python
+2023-07-10 17:58:46.886 [info] Starting Pylance language server.
+2023-07-10 17:59:01.057 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py
+2023-07-10 18:15:03.637 [info] Discover tests for workspace name: Development - uri: /home/meee/Development/dcapSpider/spiders/__init__.py

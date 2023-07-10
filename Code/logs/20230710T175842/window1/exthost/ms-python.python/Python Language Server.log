@@ -1,0 +1,15 @@
+2023-07-10 17:58:46.874 [info] [Info  - 5:58:46 PM] (6189) Pylance language server 2023.7.10 (pyright 74d8f3c4) starting
+2023-07-10 17:58:46.875 [info] [Info  - 5:58:46 PM] (6189) Server root directory: /home/meee/.vscode/extensions/ms-python.vscode-pylance-2023.7.10/dist
+2023-07-10 17:58:46.875 [info] [Info  - 5:58:46 PM] (6189) Starting service instance "Development"
+2023-07-10 17:58:46.905 [info] [Info  - 5:58:46 PM] (6189) Setting pythonPath for service "Development": "/home/meee/venv/bin/python"
+2023-07-10 17:58:46.910 [info] [Warn  - 5:58:46 PM] (6189) stubPath /home/meee/Development/typings is not a valid directory.
+2023-07-10 17:58:47.041 [info] [Info  - 5:58:47 PM] (6189) Assuming Python version 3.11
+2023-07-10 17:58:47.217 [info] [Info  - 5:58:47 PM] (6189) Found 9 source files
+2023-07-10 17:58:47.811 [info] [Info  - 5:58:47 PM] (6189) Background analysis(1) root directory: /home/meee/.vscode/extensions/ms-python.vscode-pylance-2023.7.10/dist
+2023-07-10 17:58:47.813 [info] [Info  - 5:58:47 PM] (6189) Background analysis(1) started
+2023-07-10 17:58:47.987 [info] [Info  - 5:58:47 PM] (6189) Indexer background runner(2) root directory: /home/meee/.vscode/extensions/ms-python.vscode-pylance-2023.7.10/dist (index)
+2023-07-10 17:58:47.987 [info] [Info  - 5:58:47 PM] (6189) Indexing(2) started
+2023-07-10 17:58:48.726 [info] [Info  - 5:58:48 PM] (6189) scanned(2) 68 files over 1 exec env
+2023-07-10 17:58:48.899 [info] [Info  - 5:58:48 PM] (6189) indexed(2) 47 files over 1 exec env
+2023-07-10 17:58:48.914 [info] [Info  - 5:58:48 PM] (6189) Indexing finished(2).
+2023-07-10 17:58:50.042 [info] [Info  - 5:58:50 PM] (6189) [BG(1)] Long operation: analyzing: /home/meee/Development/dcapSpider/spiders/__init__.py (2133ms)

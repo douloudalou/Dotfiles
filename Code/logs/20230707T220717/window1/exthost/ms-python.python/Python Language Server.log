@@ -1,0 +1,7 @@
+2023-07-07 22:07:22.425 [info] [Info  - 10:07:22 PM] (5588) Pylance language server 2023.7.10 (pyright 74d8f3c4) starting
+2023-07-07 22:07:22.426 [info] [Info  - 10:07:22 PM] (5588) Server root directory: /home/meee/.vscode/extensions/ms-python.vscode-pylance-2023.7.10/dist
+2023-07-07 22:07:22.435 [info] [Info  - 10:07:22 PM] (5588) Starting service instance "Development"
+2023-07-07 22:07:22.534 [info] [Info  - 10:07:22 PM] (5588) Setting pythonPath for service "Development": "/home/meee/venv/bin/python"
+2023-07-07 22:07:22.542 [info] [Warn  - 10:07:22 PM] (5588) stubPath /home/meee/Development/typings is not a valid directory.
+2023-07-07 22:07:22.611 [info] [Info  - 10:07:22 PM] (5588) Assuming Python version 3.11
+2023-07-07 22:07:22.806 [info] [Info  - 10:07:22 PM] (5588) Found 9 source files
