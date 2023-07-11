@@ -25,7 +25,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # GithubKey
-GithubKey="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"
+GithubKey="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"
 
 if pgrep -x "Xorg" > /dev/null; then
   neofetch 
