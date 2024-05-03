@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/Meee/.local/src/pw/07d44feab2510277848395ffb11f1bb1.jpg' 
